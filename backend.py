@@ -63,5 +63,3 @@ def describe_image(image_path):
 
 
 
-image_path = "C:/Users/shour/Pictures/1202/belgian-malinois-dog_2572_1_1602840524.jpg"
-print(describe_image(image_path))
